@@ -1,0 +1,1 @@
+py "D:\Programs\mpv\updater.py"
